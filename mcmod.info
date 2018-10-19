@@ -1,0 +1,16 @@
+[
+{
+  "modid": "quackcraft",
+  "name": "Quack Craft",
+  "description": "A mod that adds venous duck related stuff!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Otis_Goodman"],
+  "credits": "All the people on the quack craft team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
