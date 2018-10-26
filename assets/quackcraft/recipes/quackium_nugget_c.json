@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "   ",
+    " B ",
+    "   "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:ingot_quackium_c"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:nugget_quackium_c",
+    "count":9
+  }
+}

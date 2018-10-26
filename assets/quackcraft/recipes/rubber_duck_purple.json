@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    "XY ",
+    "   "
+  ],
+  "key": {
+    "Y": {
+      "type": "forge:ore_dict",
+      "ore": "duck_rubber"
+    },
+    "X": {
+      "item": "minecraft:dye",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "quackcraft:rubber_duck_purple"
+  }
+}

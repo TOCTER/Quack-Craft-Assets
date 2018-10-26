@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BBB",
+    " C ",
+    " BB"
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:rubber"
+    },
+    "C":
+    {
+      "item": "quackcraft:duck_feather_dye"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:rubber_duck_yellow",
+    "count":1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "BDA",
+    "B B",
+    "   "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:ingot_quackium_b"
+    },
+    "A":
+    {
+      "item": "quackcraft:ingot_quackium_a"
+    },
+    "D":
+    {
+      "item": "quackcraft:duck_feather_die"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:helmet_quackium",
+    "count":1
+  }
+}

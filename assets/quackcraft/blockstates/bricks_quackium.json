@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "normal":
+    {
+      "model": "quackcraft:bricks_quackium"
+    }
+  }
+}

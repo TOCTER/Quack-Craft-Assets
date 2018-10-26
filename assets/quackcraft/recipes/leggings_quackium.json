@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "ABD",
+    "B B",
+    "B B"
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:ingot_quackium_b"
+    },
+    "A":
+    {
+      "item": "quackcraft:ingot_quackium_a"
+    },
+    "D":
+    {
+      "item": "quackcraft:duck_feather_die"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:leggings_quackium",
+    "count":1
+  }
+}

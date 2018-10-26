@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "normal":
+    {
+      "model": "quackcraft:ore_quackium_b"
+    }
+  }
+}

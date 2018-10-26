@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " C ",
+    " D ",
+    " B "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:ingot_quackium_b"
+    },
+    "D":
+    {
+      "item": "quackcraft:duck_feather_die"
+    },
+    "C":
+    {
+      "item": "quackcraft:ingot_quackium_c"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:rod_quackium",
+    "count":4
+  }
+}

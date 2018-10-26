@@ -2,6 +2,6 @@
     "parent": "item/generated",
     "textures":
     {
-        "layer0": "quackcraft:items/duck_feather_dye"
+        "layer0": "quackcraft:items/rod_quackium"
     }
 }

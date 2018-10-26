@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " CB",
+    " R ",
+    " R "
+  ],
+
+  "key":
+  {
+    "B":
+    {
+      "item": "quackcraft:ingot_quackium_b"
+    },
+    "C":
+    {
+      "item": "quackcraft:ingot_quackium_c"
+    },
+    "R":
+    {
+      "item": "quackcraft:rod_quackium"
+    }
+  },
+
+  "result":
+  {
+    "item": "quackcraft:hoe_quackium",
+    "count":1
+  }
+}
